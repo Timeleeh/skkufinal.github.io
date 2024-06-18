@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: 대시보드
 ---
 
 # [대시보드 - 전국 지역별 부동산](https://yamt.netlify.app/)
