@@ -14,7 +14,7 @@ nav:
     active: true
 
 #Featured images in homepage
-featured-img:
+featured-img:/seoul.png
   active: true
 
 #Show categories at the end of posts
