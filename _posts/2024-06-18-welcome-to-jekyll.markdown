@@ -13,7 +13,7 @@ categories: jekyll update
 2000년 12월 부터 2023년 7월까지 약 24년간의 월별 미분양주택수를 보면 아래와 같습니다.
 아래 미분양 차트로 서울 부동산 시장의 2000년부터 지금까지의 큰 흐름을 분석해 보면, A시기를 과거 대세 하락구간의 1,2,3,4 중 어디에 속하는 것일까요?
 
-image: seoul.png
+<img src = "/seoul.png" width = "50%" height = "50%" >
 
 Jekyll requires blog post files to be named according to the following format:
 
