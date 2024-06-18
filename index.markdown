@@ -4,5 +4,5 @@
 
 layout: home
 ---
-<img src="/unma.png" width="100%" height="100%">
+
 
