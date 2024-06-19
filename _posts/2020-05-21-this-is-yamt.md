@@ -1,5 +1,5 @@
 ---
-title: This is YAMT!
+title: 얼마에 사야하는가?
 layout: post
 categories: [Typography, Markdown, Tips]
 image: /assets/img/logo.jpg
